@@ -1,0 +1,51 @@
+﻿<Window x:Class="WindChill.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindChill"
+        mc:Ignorable="d"
+        Title="Калькулятор комфортной температуры" Height="450" Width="800">
+    <Grid x:Name="MainGrid" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        
+        <TextBlock Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="2" FontSize="12">Скорость ветра (КМ/Ч)</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2" FontSize="12">Температура воздуха (°С)</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="3" FontSize="16">Wind Chill</TextBlock>
+        
+        
+        <TextBox x:Name="SpeedBox" Grid.Row="1" Grid.Column="6" FontSize="12"></TextBox>
+        <TextBox x:Name="TempBox" Grid.Row="2" Grid.Column="6" FontSize="12"></TextBox>
+        <Label x:Name="ResultBox" Content="" Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="2"></Label>
+
+
+        <Button Click="ButtonCalculate_Click" Background="Orange" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2" FontSize="18">Вычислить</Button>
+        
+        
+    </Grid>
+</Window>

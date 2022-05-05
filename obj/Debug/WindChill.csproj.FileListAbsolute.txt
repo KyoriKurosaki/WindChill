@@ -1,0 +1,16 @@
+C:\Users\ihas2\source\repos\WindChill\WindChill\bin\Debug\WindChill.exe.config
+C:\Users\ihas2\source\repos\WindChill\WindChill\bin\Debug\WindChill.exe
+C:\Users\ihas2\source\repos\WindChill\WindChill\bin\Debug\WindChill.pdb
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.csproj.AssemblyReference.cache
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.csproj.SuggestedBindingRedirects.cache
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\MainWindow.g.cs
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\App.g.cs
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill_MarkupCompile.cache
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill_MarkupCompile.lref
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\MainWindow.baml
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.g.resources
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.Properties.Resources.resources
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.csproj.GenerateResource.cache
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.csproj.CoreCompileInputs.cache
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.exe
+C:\Users\ihas2\source\repos\WindChill\WindChill\obj\Debug\WindChill.pdb
